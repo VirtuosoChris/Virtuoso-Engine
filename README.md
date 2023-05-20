@@ -27,6 +27,8 @@ Vince's CSV parser : https://github.com/vincentlaucsb/csv-parser
 
 PhysX: https://github.com/NVIDIA-Omniverse/PhysX
 
+Effekseer : https://github.com/effekseer/Effekseer
+
 GLAD : https://glad.dav1d.de/
 
 GLFW : https://github.com/glfw/glfw
