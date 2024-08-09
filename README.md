@@ -25,6 +25,8 @@ Several components of the engine can be seen publicly on my GitHub:
 
 [Noise](https://github.com/VirtuosoChris/Noise) - Perlin Noise Generation : Used in unreleased prototypes.
 
+[Autoreduce](https://github.com/VirtuosoChris/AutoReduce) - Frequency space texture analysis and reduction
+
 ## 3rd Party Libraries
 A lot of the work on the engine is curating which third party libraries to use vs which things to write myself.  The engine puts together and builds on top of lots of third party open source libraries, including but not limited to:
 
