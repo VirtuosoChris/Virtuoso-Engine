@@ -27,6 +27,8 @@ Several components of the engine can be seen publicly on my GitHub:
 
 [Autoreduce](https://github.com/VirtuosoChris/AutoReduce) - Frequency space texture analysis and reduction
 
+[VirtuosoImage](https://github.com/VirtuosoChris/VirtuosoImage/) - Templated multidimensional array with views, customizable backing store, and some common algorithms.  Used for CPU-side algorithm prototyping.  Older.
+
 ## 3rd Party Libraries
 A lot of the work on the engine is curating which third party libraries to use vs which things to write myself.  The engine puts together and builds on top of lots of third party open source libraries, including but not limited to:
 
