@@ -67,20 +67,26 @@ https://github.com/user-attachments/assets/77d3f63f-70c5-4d7e-8026-a8b3d5da427a
 ![fwgif](https://github.com/user-attachments/assets/8d931ee5-a879-4dd9-9510-eb06d53e7db1)
 
 HDR Stereo Reflection Maps (Virtuoso, GearVR 2016)
+
 ![HDR Mobile VR 2016](https://github.com/user-attachments/assets/eb760afc-2706-41dc-8555-2f7b8872b3f5)
 
 Water Shader (Virtuoso, GearVR 2016)
+
 ![GLES Mobile Water Shader 2016](https://github.com/user-attachments/assets/4b38adad-a7de-492b-943d-b478295f9659)
 
 Bloom, HDR, Emissive Mapping (2012)
+
 ![Bloom HDR Emissive 2012](https://github.com/user-attachments/assets/a61549a3-50e8-4731-a993-172cfa38cbd7)
 
 Spherical Harmonics Convolutions (2010)
+
 ![Spherical Harmonic Lighting Probe Convolutions](https://github.com/user-attachments/assets/5a50ba4c-e26d-4fc6-b661-91d796aae4ed)
 
 Shadowmaps, Bloom, LOD, HDR (Virtuoso, 2017)
+
 ![ShadowMaps Bloom LOD HDR](https://github.com/user-attachments/assets/6f88d5d3-3fcb-4c18-8575-c63203f1dd1e)
 
 Shadowmaps, Bloom, HDR (Virtuoso Engine, 2017)
+
 ![Shadowmaps Bloom HDR](https://github.com/user-attachments/assets/e1755a54-dc48-44b5-b906-08e45a69b41a)
 
