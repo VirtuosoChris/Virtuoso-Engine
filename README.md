@@ -62,6 +62,10 @@ A lot of the work on the engine is curating which third party libraries to use v
 
 [GLAD](https://glad.dav1d.de/) - OpenGL function loader
 
+## Coming Soon
+
+Virtuoso GameAudio and Virtuoso Physics, both developed for KBH.
+
 ## Made with Virtuoso
 
 https://github.com/user-attachments/assets/77d3f63f-70c5-4d7e-8026-a8b3d5da427a
