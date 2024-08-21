@@ -27,6 +27,8 @@ Several components of the engine can be seen publicly on my GitHub:
 
 [Noise](https://github.com/VirtuosoChris/Noise) - Perlin Noise Generation : Used in unreleased prototypes.
 
+[3DMath](https://github.com/VirtuosoChris/3DMath) - Frustum, transforms, etc.
+
 [Autoreduce](https://github.com/VirtuosoChris/AutoReduce) - Frequency space texture analysis and reduction
 
 [VirtuosoImage](https://github.com/VirtuosoChris/VirtuosoImage/) - Templated multidimensional array with views, customizable backing store, and some common algorithms.  Used for CPU-side algorithm prototyping.  Older.
